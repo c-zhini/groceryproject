@@ -60,4 +60,8 @@ label {
     width: 50%;
     align-content: left;
 }
+
+h1 {
+    color: turquoise;
+}
 </style>
